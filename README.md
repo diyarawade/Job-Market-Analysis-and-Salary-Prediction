@@ -46,6 +46,12 @@ The dataset contains job-related information such as:
 * Data Visualization and EDA
 * Model Persistence using Joblib
 
+## Streamlit Application
+
+### Application Preview
+
+![Streamlit App](Streamlit_app.png)
+
 ## Project Files
 
 * EDA.ipynb
